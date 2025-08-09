@@ -4,7 +4,7 @@
 
 **Author:** Oluwaseun Osunsola  
 **Environment:** Kali Linux (CLI-based)  
-**Project link:** https://github.com/Oluwaseunoa/Cyber-Security-Projects/tree/main/Cyber-Security-Fundamentals/Steganography-Project
+**Project link:** https://github.com/Oluwaseunoa/Cyber-Security-Projects/tree/main/Cyber-Security-Fundamentals/Digital-Signature-and-PKI
 
 ## 📌 Project Objective
 The goal of this project is to:
