@@ -73,13 +73,13 @@ ls
 tree
 ```
 
-![Project Folder in CLI](./Cyber-Security-Fundamentals/Steganography-Project/img/1.project_folder_on_cli.png)
+![Project Folder in CLI](./img/1.project_folder_on_cli.png)
 
 ---
 
 ### Step 2 — Confirm Files in GUI
 
-![Project Folder in GUI](./Cyber-Security-Fundamentals/Steganography-Project/img/2.project_folder_in_gui.png)
+![Project Folder in GUI](./img/2.project_folder_in_gui.png)
 
 ---
 
@@ -89,7 +89,7 @@ tree
 nano secret.txt
 ```
 
-![Open secret.txt](./Cyber-Security-Fundamentals/Steganography-Project/img/3.open_secret-txt.png)
+![Open secret.txt](./img/3.open_secret-txt.png)
 
 ---
 
@@ -99,13 +99,13 @@ nano secret.txt
 stat secret.txt
 ```
 
-![Stat secret.txt](./Cyber-Security-Fundamentals/Steganography-Project/img/4.stat_secret-txt_before_steg.png)
+![Stat secret.txt](./img/4.stat_secret-txt_before_steg.png)
 
 ---
 
 ### Step 5 — Open `cover.jpeg`
 
-![Open cover.jpeg](./Cyber-Security-Fundamentals/Steganography-Project/img/5.open_cover-jpeg.png)
+![Open cover.jpeg](./img/5.open_cover-jpeg.png)
 
 ---
 
@@ -115,7 +115,7 @@ stat secret.txt
 stat cover.jpeg
 ```
 
-![Stat cover.jpeg](./Cyber-Security-Fundamentals/Steganography-Project/img/6.stat_cover-jpeg.png)
+![Stat cover.jpeg](./img/6.stat_cover-jpeg.png)
 
 ---
 
@@ -129,7 +129,7 @@ steghide embed -cf cover.jpeg -ef secret.txt -sf stego.jpg
 * **`-ef`**: embedded file (secret)
 * You will be prompted for a **passphrase**. Remember it for extraction.
 
-![Steg Command](./Cyber-Security-Fundamentals/Steganography-Project/img/7.steg_command.png)
+![Steg Command](./img/7.steg_command.png)
 
 ---
 
@@ -139,20 +139,20 @@ steghide embed -cf cover.jpeg -ef secret.txt -sf stego.jpg
 ls 
 ```
 
-![Stego Creation CLI](./Cyber-Security-Fundamentals/Steganography-Project/img/8.steg-jpg_creation_confirmed_cli.png)
+![Stego Creation CLI](./img/8.steg-jpg_creation_confirmed_cli.png)
 
 ---
 
 ### Step 9 — Confirm Stego Image Creation (GUI)
 
-![Stego Creation GUI](./Cyber-Security-Fundamentals/Steganography-Project/img/9.steg-jpg_creation_confirmed_gui.png)
+![Stego Creation GUI](./img/9.steg-jpg_creation_confirmed_gui.png)
 
 ---
 
 ### Step 10 — Open Stego Image
 
 Visually inspect — no difference from original.
-![Open Stego JPEG](./Cyber-Security-Fundamentals/Steganography-Project/img/10.open_stego-jpg.png)
+![Open Stego JPEG](./img/10.open_stego-jpg.png)
 
 ---
 
@@ -166,7 +166,7 @@ stat stego.jpg
 sha256sum stego.jpg
 ```
 
-![Compare Sizes](./Cyber-Security-Fundamentals/Steganography-Project/img/11.compare_size_and_hash_digest_of_cover-jpeg_with_stego-jpeg.png)
+![Compare Sizes](./img/11.compare_size_and_hash_digest_of_cover-jpeg_with_stego-jpeg.png)
 
 #### Expected Output:
 
@@ -209,7 +209,7 @@ Steganography-Project
     └── stego.jpg
 ```
 
-![Output Folder](./Cyber-Security-Fundamentals/Steganography-Project/img/12.move_stego-jpg_to_new_subfolder.png)
+![Output Folder](./img/12.move_stego-jpg_to_new_subfolder.png)
 
 ---
 
@@ -229,7 +229,7 @@ steghide extract -sf stego.jpg
 * Enter the passphrase used during embedding.
 * `secret.txt` will be recovered in the current directory.
 
-![Extract Stego JPEG](./Cyber-Security-Fundamentals/Steganography-Project/img/13.navigate_to_new_the_STEGO_FOLDER.png)
+![Extract Stego JPEG](./img/13.navigate_to_new_the_STEGO_FOLDER.png)
 
 ---
 
