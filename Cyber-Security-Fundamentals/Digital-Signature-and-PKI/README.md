@@ -6,6 +6,19 @@
 **Environment:** Kali Linux (CLI-based)  
 **Project link:** https://github.com/Oluwaseunoa/Cyber-Security-Projects/tree/main/Cyber-Security-Fundamentals/Digital-Signature-and-PKI
 
+## 📜 Background  
+In cybersecurity, ensuring that a file or message has not been altered during transmission is critical. Digital signatures, created using private keys and verified using public keys, provide this assurance. GPG (GNU Privacy Guard) is an open-source encryption tool that implements the OpenPGP standard for securing data.
+
+## 🎯 Scope
+
+Key Management: Importing the sender's public key into the local keyring.
+
+File Handling: Ensuring that the signed message and its corresponding signature file are correctly prepared.
+
+Signature Verification: Using GPG to check both the validity and integrity of the signed data.
+
+Error Handling: Diagnosing common errors (e.g., CRC errors, “no signature found”) and understanding their causes.
+
 ## 📌 Project Objective
 The goal of this project is to:
 - Understand how **digital signatures** work.
