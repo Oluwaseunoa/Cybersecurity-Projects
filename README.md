@@ -3,7 +3,7 @@
 
 **Author:** Oluwaseun Osunsola  
 **Environment:** Kali Linux (CLI-based)  
-**Project link:** https://github.com/Oluwaseunoa/Cyber-Security-Projects/tree/main/Cyber-Security-Fundamentals/Steganography-Project  
+**Project link:** https://github.com/Oluwaseunoa/Cyber-Security-Projects/blob/main/README.md 
 
 ---
 
