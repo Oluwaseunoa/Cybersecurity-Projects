@@ -11,13 +11,13 @@ In cybersecurity, ensuring that a file or message has not been altered during tr
 
 ## 🎯 Scope
 
-Key Management: Importing the sender's public key into the local keyring.
+- Key Management: Importing the sender's public key into the local keyring.
 
-File Handling: Ensuring that the signed message and its corresponding signature file are correctly prepared.
+- File Handling: Ensuring that the signed message and its corresponding signature file are correctly prepared.
 
-Signature Verification: Using GPG to check both the validity and integrity of the signed data.
+- Signature Verification: Using GPG to check both the validity and integrity of the signed data.
 
-Error Handling: Diagnosing common errors (e.g., CRC errors, “no signature found”) and understanding their causes.
+- Error Handling: Diagnosing common errors (e.g., CRC errors, “no signature found”) and understanding their causes.
 
 ## 📌 Project Objective
 The goal of this project is to:
