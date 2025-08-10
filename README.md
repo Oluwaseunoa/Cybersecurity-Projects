@@ -1,6 +1,6 @@
 <!-- Profile Section -->
 <p align="center">
-  <img src="./my passport.jpeg" alt="Oluwaseun Osunsola" width="200" style="border-radius: 50%;">
+  <img src="./my passport.png" alt="Oluwaseun Osunsola" width="200" style="border-radius: 50%;">
 </p>
 
 # Oluwaseun Osunsola  
