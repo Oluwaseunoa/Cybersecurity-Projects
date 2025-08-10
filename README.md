@@ -4,9 +4,9 @@
 </p>
 
 # Oluwaseun Osunsola  
-📧 **Email:** oluwaseun.beicks@gmail.com  
-🌍 **Location:** Lagos, Nigeria
-💼 **Role:** DevOps & Cybersecurity Practitioner  
+📧 **Email:** oluwaseun.beicks@gmail.com    
+🌍 **Location:** Lagos, Nigeria  
+💼 **Role:** DevOps & Cybersecurity Practitioner    
 🔗 **LinkedIn:** https://www.linkedin.com/in/oluwaseun-osunsola-95539b175/
 🐙 **GitHub:** https://github.com/oluwaseunoa 
 
