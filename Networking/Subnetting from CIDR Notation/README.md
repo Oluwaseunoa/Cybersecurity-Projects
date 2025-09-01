@@ -3,7 +3,6 @@
 # **Subnetting from CIDR Notation Project + Cheat Sheet (Worksheet Style)**
 
 **Author:** Oluwaseun Osunsola  
-**Environment:** AWS  
 **Project Link:** [GitHub Repository](https://github.com/Oluwaseunoa/Cybersecurity-Projects)
 
 
