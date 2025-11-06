@@ -1,4 +1,26 @@
+
 # Digital Forensic Analysis of a Phishing Email Impersonating DHL
+
+**Dedicated to the loving memory of my mother, Felicia Moriyike Osunsola Adeosun**  
+*(June 1950 – 1st November 2025)*  
+
+![In loving memory of Felicia Moriyike Osunsola Adeosun](img/dedication-mother-felicia-moriyike-osunsola-adeosun.jpg)  
+
+*This is my first completed project after her passing. Every line of analysis, every screenshot, and every lesson learned is offered in her honor. She taught me resilience, attention to detail, and the value of protecting others—values that guided this work.*
+
+---
+
+**Author:** Oluwaseun Osunsola    
+**Environment:** Windows OS, Chrome Browser & Roundcube Webmail   
+
+**Project link:** https://github.com/Oluwaseunoa/Cybersecurity-Projects/tree/main/Cyber-Security-Fundamentals
+
+This report documents the steps taken during the analysis of a suspicious email claiming to be from DHL. The aim is to determine whether the message was legitimate or a phishing attempt, and to document the investigative process for awareness and training.
+
+*(Continue with the rest of your original report below this dedication...)*
+
+---
+
 
 
 **Author:** Oluwaseun Osunsola    
